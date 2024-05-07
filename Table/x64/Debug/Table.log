@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\table\Table\Table\Table\Source.cpp(367,13): warning C4102: 'label': unreferenced label
+  Table.vcxproj -> D:\table\Table\Table\x64\Debug\Table.exe
